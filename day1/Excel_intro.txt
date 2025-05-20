@@ -1,0 +1,69 @@
+Day 1: Excel Introduction
+
+✅ Learning Objectives:
+Understand the Excel interface and navigation tools.
+
+Learn how to efficiently select and manage data.
+
+Get introduced to essential shortcut keys for productivity.
+
+🖥️ 1. Overview of Excel Screen & Spreadsheet Concepts
+
+Key Components:
+Ribbon: Tabs like Home, Insert, Page Layout, Formulas, etc.
+
+Worksheet area: Where data is entered.
+
+Columns and Rows: Columns (A, B, C…), Rows (1, 2, 3…).
+
+Cell: Intersection of a column and row (e.g., A1).
+
+Formula Bar: Displays the contents or formula of a selected cell.
+
+Name Box: Shows the address or name of the selected cell or range.
+
+Sheet Tabs: Navigate between different sheets.
+
+Status Bar: Displays information such as average, count, sum of selected data.
+
+Basic Concepts:
+Workbook vs Worksheet
+
+Cell referencing (Relative, Absolute, Mixed – to be discussed in later sessions)
+
+Data types: Text, Number, Date, Time, Boolean
+
+🖱️ 2. Selection Techniques
+Mouse-Based:
+Click to select a single cell.
+
+Click and drag to select multiple cells.
+
+Ctrl + Click to select non-adjacent cells.
+
+Shift + Click to select a continuous range.
+
+Keyboard-Based:
+Shift + Arrow Keys: Expand selection.
+
+Ctrl + Shift + Arrow: Select to the end of data region.
+
+Ctrl + A: Select all cells in the worksheet.
+
+⌨️ 3. Shortcut Keys
+Action	Shortcut
+Select Entire Column	(Ctrl + Space)
+Select Entire Row	(Shift + Space)
+Save Workbook	Ctrl + S
+Open Workbook	Ctrl + O
+Create New Workbook	Ctrl + N
+Copy	Ctrl + C
+Paste	Ctrl + V
+Cut	Ctrl + X
+Undo	Ctrl + Z
+Redo	Ctrl + Y
+Move to Beginning of Row	Home
+Move to A1	Ctrl + Home
+Move to Last Cell with Data	Ctrl + End
+Insert New Worksheet-----	Shift + F11
+Edit Active Cell	F2
